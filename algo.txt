@@ -1,0 +1,11 @@
+Here is an alternative to AlgoExpert - 
+(1) Colt Steele's Udemy course on data structures & algorithms (12$),
+
+(2) LeetCode - the free parts,
+
+(3) Youtube - If you can't understand your instructor/book explanation & want alternative explanations. Many of the youtubers cover the space and time complexity in detail i.e. with proper mathematical equations instead of just intuition or grokking.
+
+So, I am unable to see how AlgoExpert is better than the above option. Can you ask questions in AlgoExpert ? Are the instructors active in answering the questions ?
+
+AlgoExpert is a great platform, I was a member for a year. I stopped spending time studying these interview coding questions as they are only useful for a small number of companies, such as FAANG, if you fail your FAANG interview, or they are not hiring at the time you are changing job all the time invested is wasted.
+Instead I spend time studying for certifications - AWS, GCP, Hashicorp, CNCF Kubernetes for example. As these are valid for years and can help making yourself seem more competitive to hiring managers
